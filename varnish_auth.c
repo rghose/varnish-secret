@@ -1,3 +1,10 @@
+/*
+	Hacked from varnish source code
+	This function prints our the varnish challenge response when connecting to a varnishadm server remotely
+
+	(C) Rahul Ghose
+	Do what the fuck you want to license.
+ */
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/stat.h>
